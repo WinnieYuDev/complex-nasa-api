@@ -37,7 +37,7 @@ function goFetch() {
         let temp = dataWeather.main.temp;
         let city = dataWeather.name;
         let li = document.createElement('li');
-        li.innerText = `At ${name} in ${city} city, the temeprature is ${temp}F`;
+        li.innerText = `We are looking at ${name} in ${city} city. Nice! The temperature is ${temp}F°`;
         ul.appendChild(li);
     })
 
