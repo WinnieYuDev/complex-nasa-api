@@ -1,5 +1,5 @@
 # NASA Facilties Information Center 🚀
-![alt text](image.png)
+![alt text](image-1.png)
 
 # Description
 This website enables user to get facility info and local weather data from Nasa and weather APIs
